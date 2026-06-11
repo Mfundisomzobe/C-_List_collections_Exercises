@@ -6,25 +6,27 @@ using System.Threading.Tasks;
 
 namespace C__collections
 {
-    internal class Patient
+    internal class Student
     {
         // You need this:
         
         
             public int Id { get; set; }
             public string Name { get; set; }
+            public int Grade { get; set; }
 
 
-            public Patient(int id, string name)
+            public Student(int id, string name, int grade)
             {
                 Id = id;
                 Name = name;
+                Grade = grade;
             }
            
     
     public override string ToString()
         {
-            return $"Patient[ID: {Id}, Name: {Name}]";
+            return $"ID: {Id}, Name: {Name}, Grade: {Grade} ";
         }
 
     }
