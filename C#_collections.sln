@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36616.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student_Roster", "C#_collections\Student_Roster.csproj", "{05E93A3E-AFA0-4222-A72D-56E668241C2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Searching_and_Filtering", "Searching_and_Filtering\Searching_and_Filtering.csproj", "{221EE742-C453-4A2C-A5D3-77EC76DD77C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search and filtering", "Search and filtering\Search and filtering.csproj", "{A8BB0FE3-AA3B-4BCB-BDD8-52D276A5771F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{05E93A3E-AFA0-4222-A72D-56E668241C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05E93A3E-AFA0-4222-A72D-56E668241C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05E93A3E-AFA0-4222-A72D-56E668241C2A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{221EE742-C453-4A2C-A5D3-77EC76DD77C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{221EE742-C453-4A2C-A5D3-77EC76DD77C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{221EE742-C453-4A2C-A5D3-77EC76DD77C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{221EE742-C453-4A2C-A5D3-77EC76DD77C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BB0FE3-AA3B-4BCB-BDD8-52D276A5771F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BB0FE3-AA3B-4BCB-BDD8-52D276A5771F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BB0FE3-AA3B-4BCB-BDD8-52D276A5771F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BB0FE3-AA3B-4BCB-BDD8-52D276A5771F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
